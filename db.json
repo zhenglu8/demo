@@ -1,14 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "latitude": 30.29769, "longitude": -97.74133},
+    { "latitude": 30.29826, "longitude": -97.74099},
+    { "latitude": 30.29906, "longitude": -97.74047},
+    { "latitude": 30.30032, "longitude": -97.73968},
+    { "latitude": 30.30229, "longitude": -97.73843},
+    { "latitude": 30.30274, "longitude": -97.73818},
+  ]
 }
