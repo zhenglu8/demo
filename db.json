@@ -1,6 +1,7 @@
 {
   "posts": [
     { "latitude": 37.325465, "longitude": -121.892276},
-    
+    { "latitude": 37.325470, "longitude": -121.892277},
+    { "latitude": 37.325475, "longitude": -121.892278},
   ]
 }
